@@ -1,0 +1,178 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* VARIABLES */
+:root {
+    --verde-oscuro: #3a5a40;
+    --verde-medio: #588157;
+    --verde-claro: #a3b18a;
+    --fondo: #fefae0;
+    --blanco: #ffffff;
+}
+
+/* BODY */
+body {
+    font-family: Arial, sans-serif;
+    background-color: var(--fondo);
+}
+
+/* HEADER */
+.hero {
+    height: 300px;
+    background: linear-gradient(rgba(58,90,64,0.7), rgba(58,90,64,0.7)),
+    url('img/Encabezado angio.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.overlay {
+    text-align: center;
+    color: white;
+}
+
+nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+
+/* MAIN */
+main {
+    padding: 20px;
+}
+
+/* INTRO */
+.intro {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+/* GRID */
+#contenedor-angiospermas {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+/* TARJETAS */
+.card-clado {
+    background: white;
+    border-radius: 12px;
+    padding: 15px;
+    border: 2px solid var(--verde-medio);
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.card-clado:hover {
+    transform: scale(1.03);
+}
+
+/* TEXTOS */
+.card-clado h2 {
+    color: var(--verde-oscuro);
+    margin-bottom: 10px;
+}
+
+.card-clado h3 {
+    margin-top: 10px;
+    color: var(--verde-medio);
+}
+
+.card-clado ul {
+    padding-left: 15px;
+}
+
+/* BOTÓN */
+#btn-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: var(--verde-medio);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+.footer-info {
+    background-color: var(--verde-oscuro);
+    color: white;
+    text-align: center;
+    padding: 25px 15px;
+    margin-top: 40px;
+}
+
+.footer-info p {
+    margin: 5px 0;
+}
+
+/* ========================= */
+/* REFERENCIAS PRO */
+/* ========================= */
+
+.referencias {
+    margin: 40px 20px;
+}
+
+.referencias h2 {
+    margin-bottom: 20px;
+    color: var(--verde-oscuro);
+    text-align: center;
+}
+
+/* 🔥 TARJETA BONITA */
+.ref-card {
+    background: var(--blanco);
+    border-radius: 12px;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+
+    /* EFECTO PRO */
+    border-left: 8px solid var(--verde-medio);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+
+    transition: 0.3s;
+}
+
+/* 🔥 HOVER SUAVE */
+.ref-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 22px rgba(0,0,0,0.2);
+}
+
+/* TEXTOS */
+.ref-autores {
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.ref-anio {
+    color: var(--verde-medio);
+    margin: 6px 0;
+    font-weight: bold;
+}
+
+.ref-titulo {
+    margin: 6px 0;
+    font-style: italic;
+}
+
+.ref-editorial {
+    font-size: 0.9em;
+    color: #555;
+}
