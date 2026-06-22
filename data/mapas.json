@@ -1,0 +1,14 @@
+{
+  "mapas": [
+    {
+      "titulo": "Distribución de angiospermas en México",
+      "descripcion": "Mapa general de la distribución geográfica de angiospermas registradas en el territorio mexicano.",
+      "imagen": "mapa1.jpeg"
+    },
+    {
+      "titulo": "Regiones de diversidad florística",
+      "descripcion": "Visualización de las principales regiones con mayor concentración de familias y géneros de angiospermas.",
+      "imagen": "mapa2.jpeg"
+    }
+  ]
+}

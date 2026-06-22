@@ -1,0 +1,3682 @@
+{
+  "angiospermas": [
+    {
+      "clado": "Angiospermas basales",
+      "ordenes": [
+        {
+          "nombre": "Nymphaeales",
+          "familias": [
+            {
+              "nombre": "Cabombaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Brasenia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cabomba",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Nymphaeaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Nuphar",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Nymphaea",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Austrobaileyales",
+          "familias": [
+            {
+              "nombre": "Schisandraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Illicium",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Chloranthales",
+          "familias": [
+            {
+              "nombre": "Chloranthaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Hedyosmum",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clado": "Magnólidas",
+      "ordenes": [
+        {
+          "nombre": "Canellales",
+          "familias": [
+            {
+              "nombre": "Canellaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Winteraceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Piperales",
+          "familias": [
+            {
+              "nombre": "Aristolochiaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Aristolochia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Asarum",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Piperaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Peperomia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Piper",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Saururaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Anemopsis",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Laurales",
+          "familias": [
+            {
+              "nombre": "Hernandiaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Gyrocarpus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Hernandia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Lauraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Aiouea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Beilschmiedia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cinnamomum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Licaria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Litsea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Nectandra",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ocotea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Persea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Phoebe",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Monimiaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Mollinedia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Siparunaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Siparuna",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Magnoliales",
+          "familias": [
+            {
+              "nombre": "Annonaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Annona",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Asimina",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cymbopetalum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Desmopsis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Guatteria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Mosannona",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sapranthus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Stenanona",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tridimeris",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Xylopia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Magnoliaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Magnolia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Myristicaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Compsoneura",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Virola",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clado": "Monocotiledóneas",
+      "ordenes": [
+        {
+          "nombre": "Alismatales",
+          "familias": [
+            {
+              "nombre": "Alismataceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Alisma",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Echinodorus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sagittaria",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Araceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Anthurium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Monstera",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Philodendron",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Pistia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Spathiphyllum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Syngonium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Xanthosoma",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Cymodoceaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Hydrocharitaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Juncaginaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Potamogetonaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Ruppiaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Zosteraceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Dioscoreales",
+          "familias": [
+            {
+              "nombre": "Burmanniaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Dioscoreaceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Pandanales",
+          "familias": [
+            {
+              "nombre": "Cyclanthaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Carludovica",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cyclanthus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Triuridaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Sciaphila",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Triuris",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Liliales",
+          "familias": [
+            {
+              "nombre": "Alstroemeriaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Liliaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Calochortus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Melanthiaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Schoenocaulon",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Stenanthium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Veratrum",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Smilacaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Smilax",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Asparagales",
+          "familias": [
+            {
+              "nombre": "Amaryllidaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Agave",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Allium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Beschorneria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Furcraea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Hymenocallis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Manfreda",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Polianthes",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Zephyranthes",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Asparagaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Agave",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Beschorneria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Dasylirion",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Dracaena",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Nolina",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Yucca",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Hypoxidaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Hypoxis",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Iridaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Nemastylis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sisyrinchium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tigridia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Orchidaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Bletia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Encyclia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Epidendrum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Govenia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Habenaria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Laelia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Lycaste",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Malaxis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Oncidium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Prosthechea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Stanhopea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Vanilla",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clado": "Commelínidas",
+      "ordenes": [
+        {
+          "nombre": "Commelinales",
+          "familias": [
+            {
+              "nombre": "Commelinaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Callisia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Commelina",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Gibasis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tinantia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tradescantia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tripogandra",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Haemodoraceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Pontederiaceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Poales",
+          "familias": [
+            {
+              "nombre": "Bromeliaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Aechmea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Billbergia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Bromelia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Catopsis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Fosterella",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Hechtia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Pitcairnia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tillandsia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Viridantha",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Werauhia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Cyperaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Bulbostylis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Carex",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cyperus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Eleocharis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Fimbristylis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Kyllinga",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Rhynchospora",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Scleria",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Eriocaulaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Eriocaulon",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Paepalanthus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Juncaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Juncus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Luzula",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Mayacaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Poaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Andropogon",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Aristida",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Bouteloua",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Eragrostis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Muhlenbergia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Panicum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Paspalum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Poa",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Setaria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sporobolus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tripsacum",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Typhaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Typha",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Xyridaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Xyris",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Arecales",
+          "familias": [
+            {
+              "nombre": "Arecaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Acrocomia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Astrocaryum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Brahea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Chamaedorea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Coccothrinax",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cryosophila",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Gaussia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Geonoma",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Reinhardtia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Roystonea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sabal",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Washingtonia",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Zingiberales",
+          "familias": [
+            {
+              "nombre": "Cannaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Canna",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Costaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Costus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Heliconiaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Heliconia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Marantaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Calathea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Maranta",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Stromanthe",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Zingibeaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Renealmia",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Ceratophyllales",
+          "familias": [
+            {
+              "nombre": "Ceratophyllaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Ceratophyllum",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clado": "Eudicotiledóneas",
+      "ordenes": [
+        {
+          "nombre": "Ranunculales",
+          "familias": [
+            {
+              "nombre": "Berberidaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Berberis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Mahonia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Menispermaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Cissampelos",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cocculus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Disciphania",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Hyperbaena",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Papaveraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Argemone",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Bocconia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Corydalis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Dicentra",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Eschscholzia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Ranunculaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Anemone",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Aquilegia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Clematis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Delphinium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ranunculus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Thalictrum",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Sabiaceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Proteales",
+          "familias": [
+            {
+              "nombre": "Nelumbonaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Nelumbo",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Platanaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Platanus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Proteaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Roupala",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Buxales",
+          "familias": [
+            {
+              "nombre": "Buxaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Buxus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sarcococca (introducida)",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clado": "Eudicotiledóneas núcleo",
+      "ordenes": [
+        {
+          "nombre": "Gunnerales",
+          "familias": [
+            {
+              "nombre": "Gunneraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Gunnera",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Saxifragales",
+          "familias": [
+            {
+              "nombre": "Altingiaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Liquidambar",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Crassulaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Aeonium (introducido)",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Dudleya",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Echeveria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Graptopetalum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Pachyphytum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sedum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Thompsonella",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Villadia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Grossulariaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Ribes",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Halorangaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Laurembergia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Myriophyllum",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Hamamelidaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Hamamelis",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Iteaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Itea",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Paeoniaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Saxifragaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Heuchera",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Lithophragma",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Micranthes",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Saxifraga",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tiarella",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Dilleniales",
+          "familias": [
+            {
+              "nombre": "Dilleniaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Curatella",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Davilla",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Doliocarpus",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clado": "Rósidas",
+      "ordenes": [
+        {
+          "nombre": "Vitales",
+          "familias": [
+            {
+              "nombre": "Vitaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Heuchera",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Lithophragma",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Micranthes",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Saxifraga",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tiarella",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clado": "Fábidas",
+      "ordenes": [
+        {
+          "nombre": "Zygophyllales",
+          "familias": [
+            {
+              "nombre": "Krameriaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Krameria",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Zygophyllaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Fagonia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Guaiacum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Kallstroemia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Larrea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tribulus",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Celastrales",
+          "familias": [
+            {
+              "nombre": "Celastraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Canotia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Celastrus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Crossopetalum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Elaeodendron",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Euonymus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Maytenus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Mortonia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Schaefferia",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Oxalidales",
+          "familias": [
+            {
+              "nombre": "Brunelliaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Connaraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Connarus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Rourea",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Cunoniaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Weinmannia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Elaeocarpaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Sloanea",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Oxalidaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Oxalis",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Malpighiales",
+          "familias": [
+            {
+              "nombre": "Achariaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Carpotroche",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Chiangiodendron",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Calophyllaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Chrysobalanaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Chrysobalanus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Hirtella",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Licania",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Clusiaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Calophyllum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Clusia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Garcinia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Vismia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Dichapetalaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Dichapetalum",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Elatinaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Bergia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Elatine",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Erythroxylaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Erythroxylum",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Euphorbiaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Acalypha",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cnidoscolus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Croton",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Euphorbia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Gymnanthes",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Jatropha",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Manihot",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Pedilanthus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ricinus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sebastiania",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Humiriaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Hypericaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Lacistemataceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Linaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Linum",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Malpighiaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Banisteriopsis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Bunchosia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Byrsonima",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Galphimia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Heteropterys",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Mascagnia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Ochnaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Passifloraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Passiflora",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Phyllanthaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Hieronyma",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Phyllanthus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Picrodendraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Piranhea",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Podostemaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Marathrum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Noveloa",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Oserya",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tristicha",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Putranjivaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Drypetes",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Rhizophoraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Rhizophora",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Salicaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Casearia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Populus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Salix",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Xylosma",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Trigoniaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Violaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Hybanthus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Viola",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Cucurbitales",
+          "familias": [
+            {
+              "nombre": "Begoniaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Begonia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Coriariaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Coriaria",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Cucurbitaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Datiscaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Datisca",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Fabales",
+          "familias": [
+            {
+              "nombre": "Fabaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Acacia (muchas especies ahora se ubican en Vachellia y Senegalia)",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Aeschynomene",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Astragalus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Bauhinia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Caesalpinia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Calliandra",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Canavalia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cercis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Crotalaria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Dalea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Desmodium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ebenopsis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Erythrina",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Gliricidia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Haematoxylum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Inga",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Leucaena",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Lupinus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Lysiloma",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Machaerium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Mimosa",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Olneya",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Parkinsonia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Phaseolus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Piscidia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Prosopis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Senna",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sesbania",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sophora",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Vachellia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Zapoteca",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Zornia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Polygalaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Monnina",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Polygala",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Securidaca",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Surianaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Suriana",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Rosales",
+          "familias": [
+            {
+              "nombre": "Cannabaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Cannabis (introducido)",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Celtis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Trema",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Moraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Brosimum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Castilla",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Dorstenia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ficus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Maclura",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Morus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Poulsenia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sorocea",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Rhamnaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Ceanothus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Colubrina",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Condalia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Karwinskia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Krugiodendron",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Rhamnus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ziziphus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Rosaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Amelanchier",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cercocarpus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Crataegus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Fragaria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Holodiscus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Horkelia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Malacomeles",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Photinia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Potentilla",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Prunus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Purshia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Rosa",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Rubus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Ulmaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Phyllostylon",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ulmus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Urticaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Boehmeria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cecropia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Laportea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Parietaria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Phenax",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Pilea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Urera",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Urtica",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Fagales",
+          "familias": [
+            {
+              "nombre": "Betulaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Alnus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Carpinus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ostrya",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Fagaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Fagus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Quercus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Juglandaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Carya",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Juglans",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Oreomunnea",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Myricaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Morella",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Ticodendraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Ticodendron",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clado": "Málvidas",
+      "ordenes": [
+        {
+          "nombre": "Geraniales",
+          "familias": [
+            {
+              "nombre": "Geraniaceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Myrtales",
+          "familias": [
+            {
+              "nombre": "Combretaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Lythraceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Melastomataceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Myrtaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Onagraceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Vochysiaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Myrtaceae (incluye Heteropyxida Heteropyxida-",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Crossosomatales",
+          "familias": [
+            {
+              "nombre": "Crossosomataceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Guamatelaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Staphyleaceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Picramniales",
+          "familias": [
+            {
+              "nombre": "Picramniaceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Huerteales",
+          "familias": [
+            {
+              "nombre": "Dipentodontaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Tapisciaceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Brassicales",
+          "familias": [
+            {
+              "nombre": "Bataceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Batis",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Brassicaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Brassica",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cardamine",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Descurainia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Draba",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Erysimum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Lepidium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Nasturtium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Pennellia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Physaria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Rorippa",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sisymbrium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Streptanthus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Capparaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Capparidastrum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Crateva",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Forchhammeria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Morisonia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Quadrella",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Caricaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Carica",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Jarilla",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Vasconcellea",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Cleomaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Cleome",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Polanisia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Koeberliniaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Koeberlinia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Resedaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Oligomeris",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Reseda",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Setchellanthaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Tovariaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Tropaeolaceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Malvales",
+          "familias": [
+            {
+              "nombre": "Bixaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Bixa",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cochlospermum",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Cistaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Helianthemum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Lechea",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Cytinaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Malvaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Abutilon",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ceiba",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Gossypium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Hampea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Hibiscus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Malva",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Pavonia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sida",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Theobroma",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tilia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Triumfetta",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Muntingiaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Muntingia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Thymelaeaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Daphnopsis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Dirca",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Schoenobiblus",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Sapindales",
+          "familias": [
+            {
+              "nombre": "Anacardiaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Amphipterygium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Astronium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Comocladia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cotinus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Metopium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Pistacia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Rhus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Spondias",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Toxicodendron",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Burseraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Beiselia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Bursera",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Canarium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Commiphora",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Protium",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Meliaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Cedrela",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Guarea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Swietenia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Trichilia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Nitrariaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Nitraria (muy limitada)",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Rutaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Amyris",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Casimiroa",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Choisya",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Helietta",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ptelea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ruta",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Zanthoxylum",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Sapindaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Cardiospermum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cupania",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Dodonaea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Paullinia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sapindus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Serjania",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Thouinia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Urvillea",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Simaroubaceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Santalales",
+          "familias": [
+            {
+              "nombre": "Balanophoraceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Loranthaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Santalaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Olacaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Opiliaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Schoepfiaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Schoepfi aceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Caryophyllales",
+          "familias": [
+            {
+              "nombre": "Achatocarpaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Aizoaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Amaranthaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Anacampserotaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Basellaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Cactaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Caryophyllaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Droseraceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Frankeniaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Molluginaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Montiaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Nyctaginaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Phytolaccaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Plumbaginaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Polygonaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Portulacaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Sarcobataceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Simmondsiaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Stegnospermataceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Talinaceae",
+              "tipo": "familia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clado": "Astéridas",
+      "ordenes": [
+        {
+          "nombre": "Cornales",
+          "familias": [
+            {
+              "nombre": "Cornaceae (incluye Nyssaceae)",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Cornus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Hydrangeaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Fendlera",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Hydrangea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Jamesia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Philadelphus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Loasaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Eucnide",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Gronovia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Mentzelia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Petalonyx",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Ericales",
+          "familias": [
+            {
+              "nombre": "Actinidaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Saurauia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Balsaminaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Clethraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Clethra",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Cyrillaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Cliftonia (presencia muy restringida)",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cyrilla",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Ebenaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Diospyros",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Ericaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Arbutus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Arctostaphylos",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Comarostaphylis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Gaultheria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Lyonia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Vaccinium",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Fouquieriaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Fouquieria",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Lecythidaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Eschweilera",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Gustavia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Marcgraviaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Marcgravia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Norantea",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Mitrastemonaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Mitrastemon",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Pentaphylacaceae (incluye Ternstroemiaceae y Sladeniaceae)",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Cleyera",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ternstroemia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Polemoniaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Cobaea",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Gilia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ipomopsis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Loeselia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Phlox",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Polemonium",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Primulaceae (incluye Maesaceae, Myrsinaceae y Theophrastaceae)",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Anagallis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ardisia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Bonellia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Lysimachia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Samolus",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Sapotaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Chrysophyllum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Manilkara",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Pouteria",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sideroxylon",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Styracaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Styrax",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Symplocaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Symplocos",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Theaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Cleyera",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ternstroemia",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Garryales",
+          "familias": [
+            {
+              "nombre": "Garryaceae (incluye Aucubaceae)",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Gentianales",
+          "familias": [
+            {
+              "nombre": "Apocynaceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Lamiales",
+          "familias": [
+            {
+              "nombre": "Acanthaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Bignoniaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Calceolariaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Gesneriaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Lamiaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Linderniaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Lentibulariaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Martyniaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Oleaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Orobanchaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Pedaliaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Phrymaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Plantaginaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Plocospermataceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Schlegeliaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Scrophulariaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Tetrachondraceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Verbenaceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Solanales",
+          "familias": [
+            {
+              "nombre": "Convolvulaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Hydroleaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Solanaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Sphenocleaceae",
+              "tipo": "familia"
+            }
+          ]
+        },
+        {
+          "nombre": "Lamidas",
+          "familias": [
+            {
+              "nombre": "Boraginaceae",
+              "tipo": "familia"
+            },
+            {
+              "nombre": "Icacinaceae",
+              "tipo": "familia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "clado": "Campanúlidas",
+      "ordenes": [
+        {
+          "nombre": "Aquifoliales",
+          "familias": [
+            {
+              "nombre": "Aquifoliaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Ilex",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Phyllonomaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Phyllonoma",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Asterales",
+          "familias": [
+            {
+              "nombre": "Asteraceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Ageratina",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Ambrosia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Artemisia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Baccharis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Bidens",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Brickellia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Cosmos",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Dahlia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Erigeron",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Gnaphalium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Helianthus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Montanoa",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Pseudognaphalium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Roldana",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Senecio",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Stevia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tagetes",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Tithonia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Verbesina",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Viguiera",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Zinnia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Campanulaceae (incluye Lobeliaceae)",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Burmeistera",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Centropogon",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Lobelia",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Goodeniaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Scaevola",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Menyanthaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Nymphoides",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Apiales",
+          "familias": [
+            {
+              "nombre": "Apiaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Arracacia",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Daucus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Eryngium",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Foeniculum",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Lilaeopsis",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Osmorhiza",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Pimpinella",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sanicula",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Araliaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Dendropanax",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Oreopanax",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Sciadodendron",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nombre": "Dipsacales",
+          "familias": [
+            {
+              "nombre": "Adoxaceae",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Sambucus",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Viburnum",
+                  "tipo": "genero"
+                }
+              ]
+            },
+            {
+              "nombre": "Caprifoliaceae (incluye Diervillaceae, Linnaeaceae y Morinaceae)",
+              "tipo": "familia",
+              "generos": [
+                {
+                  "nombre": "Lonicera",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Symphoricarpos",
+                  "tipo": "genero"
+                },
+                {
+                  "nombre": "Valeriana",
+                  "tipo": "genero"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

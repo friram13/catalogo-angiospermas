@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Categorías — Catálogo de Angiospermas de México</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body data-page="categorias" data-json="../data/data-base1.json" data-img="../img">
+
+<header class="hero">
+    <div class="hero-bg" aria-hidden="true"></div>
+    <div class="overlay">
+        <p class="hero-etiqueta">Catálogo de Angiospermas de México</p>
+        <h1>Categorías</h1>
+        <nav class="menu-principal" aria-label="Navegación principal">
+            <a href="../inicio/index.html">Inicio</a>
+            <a href="index.html" class="active">Categorías</a>
+            <a href="../mapas/index.html">Mapas</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+
+    <section class="intro">
+        <h2>Clasificación taxonómica</h2>
+        <p>
+            Haz clic en cada clado u orden para desplegar la clasificación por familias y géneros.
+        </p>
+    </section>
+
+    <section class="intro guia-taxonomia">
+        <h2>¿Qué es cada nivel?</h2>
+
+        <div class="definiciones-grid">
+            <div class="definicion-item">
+                <h3>Orden</h3>
+                <p>
+                    Agrupa familias emparentadas. Es el nivel que abres en el catálogo
+                    para ver las familias y géneros registrados en México.
+                </p>
+            </div>
+            <div class="definicion-item">
+                <h3>Familia</h3>
+                <p>
+                    Reúne géneros con características similares. Algunas familias
+                    aparecen directamente cuando no hay géneros listados en el atlas.
+                </p>
+            </div>
+            <div class="definicion-item">
+                <h3>Género</h3>
+                <p>
+                    Conjunto de especies muy relacionadas entre sí. En las tarjetas
+                    verás el nombre del género y, cuando aplique, su familia.
+                </p>
+            </div>
+        </div>
+
+        <h3 class="ejemplo-titulo">Ejemplo: cómo usar la plataforma</h3>
+        <p class="ejemplo-desc">
+            1. Abre un <strong>clado</strong> → 2. Elige un <strong>orden</strong> →
+            3. Consulta las tarjetas de <strong>géneros</strong> (o familias).
+        </p>
+
+        <div class="ejemplo-demo" aria-label="Ejemplo ilustrativo del catálogo">
+            <span class="ejemplo-badge">Solo referencia — no es interactivo</span>
+            <div class="accordion-item demo-abierto">
+                <div class="accordion-header demo-header">
+                    <span class="accordion-title">Angiospermas basales</span>
+                    <span class="accordion-meta">Clado</span>
+                </div>
+                <div class="accordion-body demo-body">
+                    <div class="accordion-inner">
+                        <div class="accordion-item accordion-sub demo-abierto">
+                            <div class="accordion-header demo-header">
+                                <span class="accordion-orden-imagen">
+                                    <img src="../img/ordenes/Nymphaeales/orden.jpeg" alt="Nymphaeales">
+                                </span>
+                                <span class="accordion-header-text">
+                                    <span class="accordion-title">Nymphaeales</span>
+                                    <span class="accordion-meta">Orden · 2 familias</span>
+                                </span>
+                            </div>
+                            <div class="accordion-body demo-body">
+                                <div class="taxon-grid">
+                                    <div class="taxon-card">
+                                        <div class="taxon-imagen sin-imagen"></div>
+                                        <p class="taxon-nombre"><em>Brasenia</em></p>
+                                        <p class="taxon-etiqueta"><strong>Género:</strong> Brasenia</p>
+                                        <p class="taxon-familia"><strong>Familia:</strong> Cabombaceae</p>
+                                    </div>
+                                    <div class="taxon-card">
+                                        <div class="taxon-imagen sin-imagen"></div>
+                                        <p class="taxon-nombre"><em>Nymphaea</em></p>
+                                        <p class="taxon-etiqueta"><strong>Género:</strong> Nymphaea</p>
+                                        <p class="taxon-familia"><strong>Familia:</strong> Nymphaeaceae</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="seccion-divisor" role="separator" aria-label="Inicio del catálogo interactivo">
+        <span>Catálogo interactivo</span>
+    </div>
+
+    <section class="catalogo-interactivo">
+        <header class="catalogo-encabezado">
+            <h2>Explora el catálogo</h2>
+            <p>Busca o abre un clado para consultar la clasificación completa de angiospermas de México.</p>
+        </header>
+
+        <div class="busqueda-bar">
+            <label for="buscar-categorias" class="sr-only">Buscar en la clasificación</label>
+            <input
+                type="search"
+                id="buscar-categorias"
+                placeholder="Buscar clado, orden, familia o género..."
+                autocomplete="off"
+            >
+        </div>
+
+        <div class="accordion-section">
+            <div id="contenedor-categorias" class="accordion"></div>
+        </div>
+    </section>
+
+    <section class="referencias">
+        <h2>Referencias</h2>
+        <div class="ref-card">
+            <p class="ref-autores">
+                Martínez Gordillo, M., Fragoso Martínez, I., Valencia Ávalos, S.,
+                Cruz Durán, R., Cristians Niizawa, S., Elías González, M.,
+                Ginez Vázquez, L., & Jiménez Ramírez, J.
+            </p>
+            <p class="ref-anio">(2014)</p>
+            <p class="ref-titulo">
+                <em>Atlas de familias de angiospermas de México</em>
+            </p>
+            <p class="ref-editorial">
+                Universidad Nacional Autónoma de México, Facultad de Ciencias.
+            </p>
+        </div>
+    </section>
+
+</main>
+
+<button id="btn-top">↑</button>
+
+<footer class="footer-info">
+    <p><strong>Autores:</strong> Angel Eduardo Vázquez Zárate y Frida Guadalupe Ramírez Aguilar</p>
+    <p><strong>Asesor:</strong> Dr. Emir Lenin Serafín Higuera</p>
+</footer>
+
+<script src="../js/main.js"></script>
+</body>
+</html>

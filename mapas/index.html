@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapas — Catálogo de Angiospermas de México</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body data-page="mapas"
+      data-mapas-json="../data/mapas.json"
+      data-img="../img">
+
+<header class="hero">
+    <div class="hero-bg" aria-hidden="true"></div>
+    <div class="overlay">
+        <p class="hero-etiqueta">Catálogo de Angiospermas de México</p>
+        <h1>Mapas</h1>
+        <nav class="menu-principal" aria-label="Navegación principal">
+            <a href="../inicio/index.html">Inicio</a>
+            <a href="../categorias/index.html">Categorías</a>
+            <a href="index.html" class="active">Mapas</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+
+    <section class="intro">
+        <h2>Distribución geográfica</h2>
+        <p>
+            Consulta los mapas de distribución de angiospermas en México.
+            Haz clic en un mapa para verlo en detalle.
+        </p>
+    </section>
+
+    <section class="mapas-section">
+        <div id="contenedor-mapas" class="mapas-grid"></div>
+    </section>
+
+</main>
+
+<div id="mapa-lightbox" class="mapa-lightbox" hidden role="dialog" aria-modal="true" aria-labelledby="lightbox-titulo">
+    <div class="mapa-lightbox-fondo" data-cerrar-lightbox></div>
+    <div class="mapa-lightbox-contenido">
+        <button type="button" class="mapa-lightbox-cerrar" aria-label="Cerrar mapa" data-cerrar-lightbox>&times;</button>
+        <figure class="mapa-lightbox-figura">
+            <img id="lightbox-imagen" src="" alt="">
+            <figcaption>
+                <h3 id="lightbox-titulo"></h3>
+                <p id="lightbox-descripcion"></p>
+            </figcaption>
+        </figure>
+    </div>
+</div>
+
+<button id="btn-top">↑</button>
+
+<footer class="footer-info">
+    <p><strong>Autores:</strong> Angel Eduardo Vázquez Zárate y Frida Guadalupe Ramírez Aguilar</p>
+    <p><strong>Asesor:</strong> Dr. Emir Lenin Serafín Higuera</p>
+</footer>
+
+<script src="../js/main.js"></script>
+</body>
+</html>
