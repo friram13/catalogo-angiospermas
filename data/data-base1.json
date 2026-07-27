@@ -12,11 +12,23 @@
               "generos": [
                 {
                   "nombre": "Brasenia",
-                  "tipo": "genero"
+                  "tipo": "genero",
+                  "especies": [
+                    {
+                      "nombre": "Brasenia schreberi",
+                      "tipo": "especie"
+                    }
+                  ]
                 },
                 {
                   "nombre": "Cabomba",
-                  "tipo": "genero"
+                  "tipo": "genero",
+                  "especies": [
+                    {
+                      "nombre": "Cabomba palaeformis",
+                      "tipo": "especie"
+                    }
+                  ]
                 }
               ]
             },
@@ -26,11 +38,27 @@
               "generos": [
                 {
                   "nombre": "Nuphar",
-                  "tipo": "genero"
+                  "tipo": "genero",
+                  "especies": [
+                    {
+                      "nombre": "Nuphar advena",
+                      "tipo": "especie"
+                    }
+                  ]
                 },
                 {
                   "nombre": "Nymphaea",
-                  "tipo": "genero"
+                  "tipo": "genero",
+                  "especies": [
+                    {
+                      "nombre": "Nymphaea ampla",
+                      "tipo": "especie"
+                    },
+                    {
+                      "nombre": "Nymphaea elegans",
+                      "tipo": "especie"
+                    }
+                  ]
                 }
               ]
             }
@@ -45,7 +73,17 @@
               "generos": [
                 {
                   "nombre": "Illicium",
-                  "tipo": "genero"
+                  "tipo": "genero",
+                  "especies": [
+                    {
+                      "nombre": "Illicium floridanum",
+                      "tipo": "especie"
+                    },
+                    {
+                      "nombre": "Illicium mexicanum",
+                      "tipo": "especie"
+                    }
+                  ]
                 }
               ]
             }
@@ -60,7 +98,13 @@
               "generos": [
                 {
                   "nombre": "Hedyosmum",
-                  "tipo": "genero"
+                  "tipo": "genero",
+                  "especies": [
+                    {
+                      "nombre": "Hedyosmum mexicanum",
+                      "tipo": "especie"
+                    }
+                  ]
                 }
               ]
             }
@@ -1328,23 +1372,19 @@
               "tipo": "familia",
               "generos": [
                 {
-                  "nombre": "Heuchera",
+                  "nombre": "Ampelopsis",
                   "tipo": "genero"
                 },
                 {
-                  "nombre": "Lithophragma",
+                  "nombre": "Cissus",
                   "tipo": "genero"
                 },
                 {
-                  "nombre": "Micranthes",
+                  "nombre": "Parthenocissus",
                   "tipo": "genero"
                 },
                 {
-                  "nombre": "Saxifraga",
-                  "tipo": "genero"
-                },
-                {
-                  "nombre": "Tiarella",
+                  "nombre": "Vitis",
                   "tipo": "genero"
                 }
               ]
