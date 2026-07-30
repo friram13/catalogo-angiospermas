@@ -167,11 +167,35 @@
               "generos": [
                 {
                   "nombre": "Peperomia",
-                  "tipo": "genero"
+                  "tipo": "genero",
+                  "especies": [
+                    {
+                      "nombre": "Peperomia pellucida",
+                      "tipo": "especie"
+                    },
+                    {
+                      "nombre": "Peperomia quadrifolia",
+                      "tipo": "especie"
+                    }
+                  ]
                 },
                 {
                   "nombre": "Piper",
-                  "tipo": "genero"
+                  "tipo": "genero",
+                  "especies": [
+                    {
+                      "nombre": "Piper auritum",
+                      "tipo": "especie"
+                    },
+                    {
+                      "nombre": "Piper aduncum",
+                      "tipo": "especie"
+                    },
+                    {
+                      "nombre": "Piper amalago",
+                      "tipo": "especie"
+                    }
+                  ]
                 }
               ]
             },
