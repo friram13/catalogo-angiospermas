@@ -133,11 +133,31 @@
               "generos": [
                 {
                   "nombre": "Aristolochia",
-                  "tipo": "genero"
+                  "tipo": "genero",
+                  "especies": [
+                    {
+                      "nombre": "Aristolochia foetida",
+                      "tipo": "especie"
+                    },
+                    {
+                      "nombre": "Aristolochia grandiflora",
+                      "tipo": "especie"
+                    },
+                    {
+                      "nombre": "Aristolochia maxima",
+                      "tipo": "especie"
+                    }
+                  ]
                 },
                 {
                   "nombre": "Asarum",
-                  "tipo": "genero"
+                  "tipo": "genero",
+                  "especies": [
+                    {
+                      "nombre": "Asarum hartwegii",
+                      "tipo": "especie"
+                    }
+                  ]
                 }
               ]
             },
