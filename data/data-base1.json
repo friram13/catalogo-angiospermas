@@ -76,10 +76,6 @@
                   "tipo": "genero",
                   "especies": [
                     {
-                      "nombre": "Illicium floridanum",
-                      "tipo": "especie"
-                    },
-                    {
                       "nombre": "Illicium mexicanum",
                       "tipo": "especie"
                     }
