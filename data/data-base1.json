@@ -205,7 +205,13 @@
               "generos": [
                 {
                   "nombre": "Anemopsis",
-                  "tipo": "genero"
+                  "tipo": "genero",
+                  "especies": [
+                    {
+                      "nombre": "Anemopsis californica",
+                      "tipo": "especie"
+                    }
+                  ]
                 }
               ]
             }
@@ -234,7 +240,13 @@
               "generos": [
                 {
                   "nombre": "Aiouea",
-                  "tipo": "genero"
+                  "tipo": "genero",
+                  "especies": [
+                    {
+                      "nombre": "Aiouea costaricensis",
+                      "tipo": "especie"
+                    }
+                  ]
                 },
                 {
                   "nombre": "Beilschmiedia",
